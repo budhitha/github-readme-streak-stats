@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 
+> **Note:** This application is restricted to only the GitHub user `budhitha`. Other users will not be able to access the streak stats.
+
 ## ⚡ Quick setup
 
 1. Copy-paste the markdown below into your GitHub profile README
